@@ -1,0 +1,17 @@
+{
+  "name": "nano-memo",
+  "version": "1.0.2",
+  "description": "The smallest, fastest memo library in town",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "memo",
+    "memoize",
+    "memoization",
+    "cache"
+  ],
+  "author": "Nick Steele <njsteele@gmail.com>",
+  "license": "MIT"
+}
